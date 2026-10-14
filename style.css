@@ -1,0 +1,55 @@
+body{
+    background-color: white;
+    color:black;
+    font-size: 12px;
+    text-align: center;
+    margin: 0;
+    padding:20px;
+    font-family:sans-serif;
+    font-style: normal;
+    text-align: center;
+    width:fit-content;
+
+}
+h1{
+    color: white;
+    font-size:medium;
+  margin-bottom: 5px;
+ width: 0 auto;
+ padding: 0;
+  margin-top: 30px;}
+
+
+h2{color: white;
+    font-size:medium;
+ margin-bottom: 5px;
+ width: 0 auto;
+ padding: 0;
+ font-size: 20px;
+ margin-top: 30px;}
+
+header{
+    background-color: black;
+    height: 150px;
+    margin-bottom: 30px;
+    
+}
+.evento {
+    background-color: black;
+    color: blanchedalmond;
+    height: 190px;
+}
+.informacoes_do_evento {
+    background-color: black;
+    color: blanchedalmond;
+    height: 190px;
+}
+
+.eventos_clube {
+
+    background-color: black;
+    color: blanchedalmond;
+    height: 190px;
+}
+
+
